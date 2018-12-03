@@ -1,0 +1,3452 @@
+fileFormatVersion: 2
+guid: a47b98afed18bcd4f8ab3ceabf68ad10
+timeCreated: 1529021787
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RedDragon_0
+    21300002: RedDragon_1
+    21300004: RedDragon_2
+    21300006: RedDragon_3
+    21300008: RedDragon_4
+    21300010: RedDragon_5
+    21300012: RedDragon_6
+    21300014: RedDragon_7
+    21300016: RedDragon_8
+    21300018: RedDragon_9
+    21300020: RedDragon_10
+    21300022: RedDragon_11
+    21300024: RedDragon_12
+    21300026: RedDragon_13
+    21300028: RedDragon_14
+    21300030: RedDragon_15
+    21300032: RedDragon_16
+    21300034: RedDragon_17
+    21300036: RedDragon_18
+    21300038: RedDragon_19
+    21300040: RedDragon_20
+    21300042: RedDragon_21
+    21300044: RedDragon_23
+    21300046: RedDragon_25
+    21300048: RedDragon_26
+    21300050: RedDragon_28
+    21300052: RedDragon_29
+    21300054: RedDragon_30
+    21300056: RedDragon_32
+    21300058: RedDragon_33
+    21300060: RedDragon_34
+    21300062: RedDragon_35
+    21300064: RedDragon_37
+    21300066: RedDragon_38
+    21300068: RedDragon_39
+    21300070: RedDragon_40
+    21300072: RedDragon_41
+    21300074: RedDragon_42
+    21300076: RedDragon_43
+    21300078: RedDragon_44
+    21300080: RedDragon_45
+    21300082: RedDragon_46
+    21300084: RedDragon_47
+    21300086: RedDragon_48
+    21300088: RedDragon_49
+    21300090: RedDragon_50
+    21300092: RedDragon_51
+    21300094: RedDragon_52
+    21300096: RedDragon_53
+    21300098: RedDragon_54
+    21300100: RedDragon_55
+    21300102: RedDragon_56
+    21300104: RedDragon_57
+    21300106: RedDragon_58
+    21300108: RedDragon_59
+    21300110: RedDragon_60
+    21300112: RedDragon_61
+    21300114: RedDragon_62
+    21300116: RedDragon_63
+    21300118: RedDragon_64
+    21300120: RedDragon_65
+    21300122: RedDragon_66
+    21300124: RedDragon_67
+    21300126: RedDragon_68
+    21300128: RedDragon_69
+    21300130: RedDragon_70
+    21300132: RedDragon_71
+    21300134: RedDragon_72
+    21300136: RedDragon_73
+    21300138: RedDragon_74
+    21300140: RedDragon_75
+    21300142: RedDragon_76
+    21300144: RedDragon_77
+    21300146: RedDragon_78
+    21300148: RedDragon_79
+    21300150: RedDragon_80
+    21300152: RedDragon_81
+    21300154: RedDragon_82
+    21300156: RedDragon_83
+    21300158: RedDragon_84
+    21300160: RedDragon_85
+    21300162: RedDragon_86
+    21300164: RedDragon_87
+    21300166: RedDragon_88
+    21300168: RedDragon_89
+    21300170: RedDragon_90
+    21300172: RedDragon_91
+    21300174: RedDragon_92
+    21300176: RedDragon_93
+    21300178: RedDragon_94
+    21300180: RedDragon_95
+    21300182: RedDragon_96
+    21300184: RedDragon_97
+    21300186: RedDragon_98
+    21300188: RedDragon_99
+    21300190: RedDragon_100
+    21300192: RedDragon_101
+    21300194: RedDragon_102
+    21300196: RedDragon_103
+    21300198: RedDragon_104
+    21300200: RedDragon_105
+    21300202: RedDragon_106
+    21300204: RedDragon_107
+    21300206: RedDragon_108
+    21300208: RedDragon_109
+    21300210: RedDragon_110
+    21300212: RedDragon_111
+    21300214: RedDragon_112
+    21300216: RedDragon_113
+    21300218: RedDragon_114
+    21300220: RedDragon_115
+    21300222: RedDragon_116
+    21300224: RedDragon_117
+    21300226: RedDragon_118
+    21300228: RedDragon_119
+    21300230: RedDragon_120
+    21300232: RedDragon_121
+    21300234: RedDragon_122
+    21300236: RedDragon_123
+    21300238: RedDragon_124
+    21300240: RedDragon_125
+    21300242: RedDragon_126
+    21300244: RedDragon_127
+    21300246: RedDragon_128
+    21300248: RedDragon_129
+    21300250: RedDragon_130
+    21300252: RedDragon_131
+    21300254: RedDragon_132
+    21300256: RedDragon_133
+    21300258: RedDragon_134
+    21300260: RedDragon_135
+    21300262: RedDragon_136
+    21300264: RedDragon_137
+    21300266: RedDragon_138
+    21300268: RedDragon_139
+    21300270: RedDragon_140
+    21300272: RedDragon_141
+    21300274: RedDragon_142
+    21300276: RedDragon_143
+    21300278: RedDragon_144
+    21300280: RedDragon_145
+    21300282: RedDragon_146
+    21300284: RedDragon_147
+    21300286: RedDragon_148
+    21300288: RedDragon_149
+    21300290: RedDragon_150
+    21300292: RedDragon_151
+    21300294: RedDragon_152
+    21300296: RedDragon_153
+    21300298: RedDragon_154
+    21300300: RedDragon_155
+    21300302: RedDragon_156
+    21300304: RedDragon_157
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedDragon_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 943
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 943
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 943
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 943
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_4
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 943
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_5
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 943
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_6
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 943
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 943
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_8
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 943
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_9
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1017
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_10
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 943
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_11
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1017
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_12
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 943
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_13
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1021
+        width: 5
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_14
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 943
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_15
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1030
+        width: 4
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_16
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 943
+        width: 75
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_17
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 943
+        width: 75
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 787
+        width: 140
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 786
+        width: 169
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 786
+        width: 194
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_21
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 786
+        width: 182
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_23
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 786
+        width: 167
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_25
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 786
+        width: 216
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_26
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 786
+        width: 201
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 646
+        width: 169
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_29
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 646
+        width: 197
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_30
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 646
+        width: 194
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_32
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 706
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_33
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 646
+        width: 182
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_34
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 644
+        width: 242
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_35
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 646
+        width: 239
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 478
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 443
+        width: 145
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 444
+        width: 138
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_40
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 450
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_41
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 387
+        width: 169
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_42
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 467
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_43
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 467
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_44
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 467
+        width: 171
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_45
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 418
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_46
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 418
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_47
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 418
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_48
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 418
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_49
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 418
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_50
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 418
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_51
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 415
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_52
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 418
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_53
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 418
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_54
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 396
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_55
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_56
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 396
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_57
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_58
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_59
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 396
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_60
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_61
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 396
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_62
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 396
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_63
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 393
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_64
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 396
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_65
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 396
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_66
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_67
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_68
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 396
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_69
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 396
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_70
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_71
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 393
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_72
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 396
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_73
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 247
+        width: 174
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_74
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 380
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_75
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 380
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_76
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 378
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_77
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 380
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_78
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 380
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_79
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 380
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_80
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 377
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_81
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 380
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_82
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 380
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_83
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 380
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_84
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 380
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_85
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 380
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_86
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 380
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_87
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 380
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_88
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 380
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_89
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 232
+        width: 181
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_90
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 262
+        width: 181
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_91
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 247
+        width: 172
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_92
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 247
+        width: 138
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_93
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 247
+        width: 128
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_94
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 246
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_95
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 245
+        width: 134
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_96
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 245
+        width: 130
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_97
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 245
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_98
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 246
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_99
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 207
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_100
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 204
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_101
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 204
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_102
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 207
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_103
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 207
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_104
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 207
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_105
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 204
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_106
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 124
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_107
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 89
+        width: 121
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_108
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 85
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_109
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 82
+        width: 116
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_110
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 189
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_111
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 186
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_112
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 189
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_113
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 189
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_114
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 189
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_115
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 91
+        width: 140
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_116
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 89
+        width: 117
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_117
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 89
+        width: 106
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_118
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 79
+        width: 113
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_119
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 173
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_120
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 173
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_121
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 173
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_122
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 173
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_123
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 170
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_124
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 173
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_125
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 173
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_126
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 173
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_127
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 171
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_128
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 170
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_129
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 173
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_130
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 173
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_131
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 173
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_132
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 173
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_133
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 173
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_134
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 154
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_135
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_136
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_137
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 157
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_138
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_139
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 154
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_140
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_141
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_142
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_143
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 157
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_144
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_145
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 157
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_146
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 157
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_147
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 83
+        width: 106
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_148
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 90
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_149
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 80
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_150
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 12
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_151
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 12
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_152
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_153
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 12
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_154
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 12
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_155
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 12
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_156
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 12
+        width: 106
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedDragon_157
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 12
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -452.5, y: -481.5}
+      - {x: -477.5, y: -495.5}
+      - {x: -477.5, y: -512.5}
+      - {x: -472.5, y: -519.5}
+      - {x: -470.5, y: -522.5}
+      - {x: -420.5, y: -522.5}
+      - {x: -420.5, y: -488.5}
+      - {x: -427.5, y: -481.5}
+    - - {x: -350.5, y: -522.5}
+      - {x: -297.5, y: -522.5}
+      - {x: -297.5, y: -481.5}
+      - {x: -329.5, y: -481.5}
+      - {x: -354.5, y: -494.5}
+      - {x: -354.5, y: -514.5}
+    - - {x: -200.5, y: -481.5}
+      - {x: -231.5, y: -495.5}
+      - {x: -231.5, y: -516.5}
+      - {x: -230.5, y: -518.5}
+      - {x: -220.5, y: -522.5}
+      - {x: -180.5, y: -522.5}
+      - {x: -174.5, y: -521.5}
+      - {x: -174.5, y: -485.5}
+      - {x: -176.5, y: -481.5}
+    - - {x: -81.5, y: -481.5}
+      - {x: -108.5, y: -497.5}
+      - {x: -108.5, y: -510.5}
+      - {x: -98.5, y: -522.5}
+      - {x: -52.5, y: -522.5}
+      - {x: -51.5, y: -518.5}
+      - {x: -51.5, y: -481.5}
+    - - {x: 56.5, y: -480.5}
+      - {x: 47.5, y: -484.5}
+      - {x: 14.5, y: -500.5}
+      - {x: 14.5, y: -522.5}
+      - {x: 71.5, y: -522.5}
+      - {x: 71.5, y: -482.5}
+      - {x: 67.5, y: -480.5}
+    - - {x: 188.5, y: -481.5}
+      - {x: 178.5, y: -481.5}
+      - {x: 170.5, y: -485.5}
+      - {x: 162.5, y: -494.5}
+      - {x: 150.5, y: -497.5}
+      - {x: 137.5, y: -502.5}
+      - {x: 137.5, y: -511.5}
+      - {x: 147.5, y: -522.5}
+      - {x: 187.5, y: -522.5}
+      - {x: 194.5, y: -519.5}
+      - {x: 194.5, y: -491.5}
+    - - {x: 334.5, y: -502.5}
+      - {x: 334.5, y: -490.5}
+      - {x: 320.5, y: -470.5}
+      - {x: 245.5, y: -470.5}
+      - {x: 224.5, y: -475.5}
+      - {x: 224.5, y: -504.5}
+      - {x: 257.5, y: -522.5}
+      - {x: 322.5, y: -522.5}
+      - {x: 321.5, y: -514.5}
+      - {x: 318.5, y: -511.5}
+      - {x: 331.5, y: -508.5}
+    - - {x: 420.5, y: -470.5}
+      - {x: 376.5, y: -500.5}
+      - {x: 376.5, y: -513.5}
+      - {x: 391.5, y: -522.5}
+      - {x: 455.5, y: -522.5}
+      - {x: 466.5, y: -518.5}
+      - {x: 466.5, y: -473.5}
+      - {x: 456.5, y: -470.5}
+    - - {x: 246.5, y: -360.5}
+      - {x: 239.5, y: -357.5}
+      - {x: 171.5, y: -357.5}
+      - {x: 171.5, y: -445.5}
+      - {x: 177.5, y: -454.5}
+      - {x: 182.5, y: -455.5}
+      - {x: 278.5, y: -455.5}
+      - {x: 288.5, y: -445.5}
+      - {x: 288.5, y: -402.5}
+      - {x: 249.5, y: -359.5}
+    - - {x: 368.5, y: -396.5}
+      - {x: 360.5, y: -395.5}
+      - {x: 328.5, y: -395.5}
+      - {x: 316.5, y: -400.5}
+      - {x: 302.5, y: -411.5}
+      - {x: 296.5, y: -420.5}
+      - {x: 296.5, y: -439.5}
+      - {x: 303.5, y: -454.5}
+      - {x: 405.5, y: -454.5}
+      - {x: 406.5, y: -452.5}
+      - {x: 406.5, y: -427.5}
+      - {x: 405.5, y: -421.5}
+    - - {x: 154.5, y: -410.5}
+      - {x: 158.5, y: -384.5}
+      - {x: 152.5, y: -375.5}
+      - {x: 141.5, y: -378.5}
+      - {x: 138.5, y: -381.5}
+      - {x: 142.5, y: -353.5}
+      - {x: 134.5, y: -338.5}
+      - {x: 122.5, y: -346.5}
+      - {x: 87.5, y: -329.5}
+      - {x: 58.5, y: -329.5}
+      - {x: 56.5, y: -330.5}
+      - {x: 57.5, y: -357.5}
+      - {x: 63.5, y: -383.5}
+      - {x: 65.5, y: -388.5}
+      - {x: 85.5, y: -410.5}
+      - {x: 87.5, y: -412.5}
+      - {x: 89.5, y: -412.5}
+      - {x: 88.5, y: -412.5}
+      - {x: 50.5, y: -406.5}
+      - {x: 44.5, y: -423.5}
+      - {x: 44.5, y: -444.5}
+      - {x: 56.5, y: -452.5}
+      - {x: 134.5, y: -452.5}
+      - {x: 164.5, y: -450.5}
+      - {x: 164.5, y: -416.5}
+      - {x: 158.5, y: -410.5}
+    - - {x: -73.5, y: -340.5}
+      - {x: -73.5, y: -449.5}
+      - {x: 35.5, y: -449.5}
+      - {x: 35.5, y: -340.5}
+    - - {x: -481.5, y: -345.5}
+      - {x: -529.5, y: -415.5}
+      - {x: -529.5, y: -421.5}
+      - {x: -526.5, y: -427.5}
+      - {x: -519.5, y: -431.5}
+      - {x: -507.5, y: -430.5}
+      - {x: -524.5, y: -433.5}
+      - {x: -529.5, y: -436.5}
+      - {x: -529.5, y: -440.5}
+      - {x: -491.5, y: -445.5}
+      - {x: -414.5, y: -445.5}
+      - {x: -408.5, y: -432.5}
+      - {x: -408.5, y: -359.5}
+      - {x: -421.5, y: -345.5}
+    - - {x: -286.5, y: -344.5}
+      - {x: -283.5, y: -344.5}
+      - {x: -279.5, y: -340.5}
+      - {x: -278.5, y: -337.5}
+      - {x: -282.5, y: -336.5}
+      - {x: -294.5, y: -336.5}
+      - {x: -330.5, y: -344.5}
+      - {x: -391.5, y: -374.5}
+      - {x: -397.5, y: -397.5}
+      - {x: -397.5, y: -419.5}
+      - {x: -379.5, y: -422.5}
+      - {x: -358.5, y: -420.5}
+      - {x: -355.5, y: -418.5}
+      - {x: -354.5, y: -413.5}
+      - {x: -354.5, y: -420.5}
+      - {x: -366.5, y: -421.5}
+      - {x: -380.5, y: -423.5}
+      - {x: -397.5, y: -433.5}
+      - {x: -397.5, y: -436.5}
+      - {x: -396.5, y: -438.5}
+      - {x: -347.5, y: -445.5}
+      - {x: -272.5, y: -445.5}
+      - {x: -272.5, y: -349.5}
+      - {x: -278.5, y: -344.5}
+    - - {x: -260.5, y: -424.5}
+      - {x: -253.5, y: -423.5}
+      - {x: -250.5, y: -422.5}
+      - {x: -259.5, y: -427.5}
+      - {x: -260.5, y: -430.5}
+      - {x: -260.5, y: -435.5}
+      - {x: -257.5, y: -443.5}
+      - {x: -249.5, y: -445.5}
+      - {x: -150.5, y: -445.5}
+      - {x: -150.5, y: -372.5}
+      - {x: -164.5, y: -346.5}
+      - {x: -217.5, y: -346.5}
+      - {x: -260.5, y: -388.5}
+    - - {x: 444.5, y: -409.5}
+      - {x: 419.5, y: -412.5}
+      - {x: 416.5, y: -420.5}
+      - {x: 416.5, y: -438.5}
+      - {x: 431.5, y: -444.5}
+      - {x: 514.5, y: -444.5}
+      - {x: 516.5, y: -440.5}
+      - {x: 516.5, y: -426.5}
+      - {x: 502.5, y: -409.5}
+    - - {x: -643.5, y: -346.5}
+      - {x: -681.5, y: -370.5}
+      - {x: -682.5, y: -384.5}
+      - {x: -682.5, y: -389.5}
+      - {x: -642.5, y: -402.5}
+      - {x: -623.5, y: -399.5}
+      - {x: -624.5, y: -412.5}
+      - {x: -622.5, y: -411.5}
+      - {x: -648.5, y: -416.5}
+      - {x: -656.5, y: -414.5}
+      - {x: -680.5, y: -422.5}
+      - {x: -681.5, y: -425.5}
+      - {x: -680.5, y: -428.5}
+      - {x: -667.5, y: -443.5}
+      - {x: -541.5, y: -443.5}
+      - {x: -538.5, y: -440.5}
+      - {x: -538.5, y: -375.5}
+      - {x: -543.5, y: -346.5}
+    - - {x: 382.5, y: -409.5}
+      - {x: 382.5, y: -412.5}
+      - {x: 385.5, y: -417.5}
+      - {x: 387.5, y: -417.5}
+      - {x: 389.5, y: -416.5}
+      - {x: 390.5, y: -412.5}
+      - {x: 385.5, y: -408.5}
+      - {x: 384.5, y: -408.5}
+    - - {x: 375.5, y: -393.5}
+      - {x: 375.5, y: -396.5}
+      - {x: 378.5, y: -399.5}
+      - {x: 378.5, y: -401.5}
+      - {x: 376.5, y: -398.5}
+      - {x: 372.5, y: -398.5}
+      - {x: 369.5, y: -399.5}
+      - {x: 369.5, y: -409.5}
+      - {x: 371.5, y: -411.5}
+      - {x: 381.5, y: -411.5}
+      - {x: 383.5, y: -407.5}
+      - {x: 383.5, y: -395.5}
+      - {x: 378.5, y: -393.5}
+    - - {x: 612.5, y: -306.5}
+      - {x: 610.5, y: -308.5}
+      - {x: 610.5, y: -408.5}
+      - {x: 612.5, y: -410.5}
+      - {x: 661.5, y: -410.5}
+      - {x: 663.5, y: -408.5}
+      - {x: 663.5, y: -308.5}
+      - {x: 661.5, y: -306.5}
+    - - {x: 368.5, y: -393.5}
+      - {x: 371.5, y: -398.5}
+      - {x: 374.5, y: -396.5}
+      - {x: 374.5, y: -391.5}
+      - {x: 372.5, y: -388.5}
+      - {x: 369.5, y: -389.5}
+    - - {x: 263.5, y: -390.5}
+      - {x: 266.5, y: -389.5}
+      - {x: 266.5, y: -386.5}
+      - {x: 263.5, y: -385.5}
+      - {x: 261.5, y: -387.5}
+    - - {x: 366.5, y: -386.5}
+      - {x: 369.5, y: -385.5}
+      - {x: 369.5, y: -382.5}
+      - {x: 366.5, y: -381.5}
+      - {x: 364.5, y: -383.5}
+    - - {x: 509.5, y: -363.5}
+      - {x: 476.5, y: -363.5}
+      - {x: 471.5, y: -368.5}
+      - {x: 471.5, y: -372.5}
+      - {x: 478.5, y: -380.5}
+      - {x: 496.5, y: -380.5}
+      - {x: 519.5, y: -377.5}
+      - {x: 522.5, y: -376.5}
+      - {x: 522.5, y: -369.5}
+      - {x: 521.5, y: -364.5}
+    - - {x: 525.5, y: -363.5}
+      - {x: 525.5, y: -379.5}
+      - {x: 527.5, y: -380.5}
+      - {x: 545.5, y: -380.5}
+      - {x: 554.5, y: -376.5}
+      - {x: 554.5, y: -363.5}
+    - - {x: 574.5, y: -363.5}
+      - {x: 557.5, y: -367.5}
+      - {x: 557.5, y: -376.5}
+      - {x: 558.5, y: -377.5}
+      - {x: 596.5, y: -377.5}
+      - {x: 604.5, y: -373.5}
+      - {x: 604.5, y: -369.5}
+      - {x: 597.5, y: -363.5}
+    - - {x: 136.5, y: -369.5}
+      - {x: 139.5, y: -368.5}
+      - {x: 139.5, y: -365.5}
+      - {x: 136.5, y: -364.5}
+      - {x: 134.5, y: -366.5}
+    - - {x: 457.5, y: -347.5}
+      - {x: 457.5, y: -364.5}
+      - {x: 588.5, y: -364.5}
+      - {x: 607.5, y: -361.5}
+      - {x: 607.5, y: -347.5}
+    - - {x: -423.5, y: -363.5}
+      - {x: -420.5, y: -362.5}
+      - {x: -420.5, y: -359.5}
+      - {x: -423.5, y: -358.5}
+      - {x: -425.5, y: -360.5}
+    - - {x: 247.5, y: -358.5}
+      - {x: 250.5, y: -357.5}
+      - {x: 250.5, y: -354.5}
+      - {x: 247.5, y: -353.5}
+      - {x: 245.5, y: -355.5}
+    - - {x: -280.5, y: -348.5}
+      - {x: -277.5, y: -347.5}
+      - {x: -277.5, y: -344.5}
+      - {x: -280.5, y: -343.5}
+      - {x: -282.5, y: -345.5}
+    - - {x: 477.5, y: -331.5}
+      - {x: 477.5, y: -348.5}
+      - {x: 604.5, y: -348.5}
+      - {x: 605.5, y: -347.5}
+      - {x: 605.5, y: -333.5}
+      - {x: 598.5, y: -331.5}
+    - - {x: 8.5, y: -347.5}
+      - {x: 11.5, y: -346.5}
+      - {x: 11.5, y: -343.5}
+      - {x: 8.5, y: -342.5}
+      - {x: 6.5, y: -344.5}
+    - - {x: 537.5, y: -313.5}
+      - {x: 537.5, y: -329.5}
+      - {x: 540.5, y: -330.5}
+      - {x: 569.5, y: -330.5}
+      - {x: 582.5, y: -327.5}
+      - {x: 582.5, y: -314.5}
+      - {x: 580.5, y: -313.5}
+    - - {x: 587.5, y: -313.5}
+      - {x: 585.5, y: -315.5}
+      - {x: 585.5, y: -325.5}
+      - {x: 587.5, y: -327.5}
+      - {x: 594.5, y: -330.5}
+      - {x: 597.5, y: -330.5}
+      - {x: 601.5, y: -329.5}
+      - {x: 603.5, y: -321.5}
+      - {x: 603.5, y: -317.5}
+      - {x: 601.5, y: -315.5}
+    - - {x: -575.5, y: -205.5}
+      - {x: -681.5, y: -237.5}
+      - {x: -681.5, y: -249.5}
+      - {x: -679.5, y: -250.5}
+      - {x: -681.5, y: -252.5}
+      - {x: -681.5, y: -282.5}
+      - {x: -611.5, y: -302.5}
+      - {x: -525.5, y: -302.5}
+      - {x: -496.5, y: -274.5}
+      - {x: -496.5, y: -205.5}
+    - - {x: 473.5, y: -266.5}
+      - {x: 469.5, y: -266.5}
+      - {x: 468.5, y: -264.5}
+      - {x: 472.5, y: -266.5}
+      - {x: 473.5, y: -266.5}
+      - {x: 476.5, y: -263.5}
+      - {x: 502.5, y: -240.5}
+      - {x: 506.5, y: -231.5}
+      - {x: 470.5, y: -196.5}
+      - {x: 437.5, y: -196.5}
+      - {x: 363.5, y: -263.5}
+      - {x: 363.5, y: -287.5}
+      - {x: 400.5, y: -289.5}
+      - {x: 507.5, y: -289.5}
+      - {x: 507.5, y: -279.5}
+      - {x: 500.5, y: -270.5}
+    - - {x: 539.5, y: -193.5}
+      - {x: 533.5, y: -196.5}
+      - {x: 533.5, y: -257.5}
+      - {x: 543.5, y: -262.5}
+      - {x: 533.5, y: -269.5}
+      - {x: 533.5, y: -284.5}
+      - {x: 534.5, y: -289.5}
+      - {x: 645.5, y: -289.5}
+      - {x: 648.5, y: -272.5}
+      - {x: 648.5, y: -200.5}
+      - {x: 644.5, y: -193.5}
+    - - {x: 656.5, y: -277.5}
+      - {x: 649.5, y: -277.5}
+      - {x: 643.5, y: -279.5}
+      - {x: 638.5, y: -284.5}
+      - {x: 638.5, y: -285.5}
+      - {x: 642.5, y: -289.5}
+      - {x: 660.5, y: -289.5}
+      - {x: 663.5, y: -283.5}
+      - {x: 663.5, y: -282.5}
+      - {x: 660.5, y: -279.5}
+    - - {x: 664.5, y: -289.5}
+      - {x: 667.5, y: -288.5}
+      - {x: 667.5, y: -285.5}
+      - {x: 664.5, y: -284.5}
+      - {x: 662.5, y: -286.5}
+    - - {x: 267.5, y: -192.5}
+      - {x: 238.5, y: -217.5}
+      - {x: 238.5, y: -283.5}
+      - {x: 266.5, y: -288.5}
+      - {x: 336.5, y: -288.5}
+      - {x: 351.5, y: -283.5}
+      - {x: 351.5, y: -192.5}
+    - - {x: -287.5, y: -248.5}
+      - {x: -287.5, y: -214.5}
+      - {x: -298.5, y: -203.5}
+      - {x: -389.5, y: -203.5}
+      - {x: -472.5, y: -239.5}
+      - {x: -472.5, y: -250.5}
+      - {x: -464.5, y: -258.5}
+      - {x: -419.5, y: -259.5}
+      - {x: -472.5, y: -277.5}
+      - {x: -472.5, y: -280.5}
+      - {x: -470.5, y: -282.5}
+      - {x: -452.5, y: -285.5}
+      - {x: -424.5, y: -287.5}
+      - {x: -307.5, y: -287.5}
+      - {x: -287.5, y: -275.5}
+      - {x: -287.5, y: -273.5}
+      - {x: -296.5, y: -268.5}
+    - - {x: -246.5, y: -149.5}
+      - {x: -271.5, y: -227.5}
+      - {x: -271.5, y: -287.5}
+      - {x: -93.5, y: -287.5}
+      - {x: -93.5, y: -209.5}
+      - {x: -154.5, y: -149.5}
+    - - {x: 60.5, y: -215.5}
+      - {x: 55.5, y: -215.5}
+      - {x: 49.5, y: -221.5}
+      - {x: 47.5, y: -215.5}
+      - {x: 52.5, y: -215.5}
+      - {x: 61.5, y: -214.5}
+      - {x: 69.5, y: -209.5}
+      - {x: 69.5, y: -181.5}
+      - {x: -22.5, y: -181.5}
+      - {x: -37.5, y: -233.5}
+      - {x: -33.5, y: -246.5}
+      - {x: -20.5, y: -243.5}
+      - {x: -17.5, y: -242.5}
+      - {x: -25.5, y: -249.5}
+      - {x: -49.5, y: -240.5}
+      - {x: -56.5, y: -230.5}
+      - {x: -64.5, y: -227.5}
+      - {x: -67.5, y: -227.5}
+      - {x: -72.5, y: -230.5}
+      - {x: -72.5, y: -287.5}
+      - {x: 69.5, y: -287.5}
+      - {x: 69.5, y: -218.5}
+    - - {x: 92.5, y: -177.5}
+      - {x: 90.5, y: -185.5}
+      - {x: 90.5, y: -201.5}
+      - {x: 91.5, y: -202.5}
+      - {x: 95.5, y: -202.5}
+      - {x: 107.5, y: -220.5}
+      - {x: 125.5, y: -232.5}
+      - {x: 102.5, y: -224.5}
+      - {x: 91.5, y: -224.5}
+      - {x: 90.5, y: -254.5}
+      - {x: 90.5, y: -271.5}
+      - {x: 107.5, y: -268.5}
+      - {x: 108.5, y: -271.5}
+      - {x: 113.5, y: -271.5}
+      - {x: 126.5, y: -274.5}
+      - {x: 144.5, y: -276.5}
+      - {x: 148.5, y: -276.5}
+      - {x: 145.5, y: -277.5}
+      - {x: 114.5, y: -272.5}
+      - {x: 110.5, y: -272.5}
+      - {x: 106.5, y: -270.5}
+      - {x: 101.5, y: -270.5}
+      - {x: 90.5, y: -275.5}
+      - {x: 90.5, y: -279.5}
+      - {x: 126.5, y: -287.5}
+      - {x: 219.5, y: -287.5}
+      - {x: 222.5, y: -286.5}
+      - {x: 222.5, y: -177.5}
+    - - {x: -291.5, y: -231.5}
+      - {x: -288.5, y: -230.5}
+      - {x: -288.5, y: -227.5}
+      - {x: -291.5, y: -226.5}
+      - {x: -293.5, y: -228.5}
+    - - {x: 339.5, y: -141.5}
+      - {x: 339.5, y: -157.5}
+      - {x: 403.5, y: -157.5}
+      - {x: 405.5, y: -151.5}
+      - {x: 405.5, y: -141.5}
+    - - {x: 331.5, y: -140.5}
+      - {x: 327.5, y: -152.5}
+      - {x: 327.5, y: -155.5}
+      - {x: 329.5, y: -156.5}
+      - {x: 333.5, y: -156.5}
+      - {x: 337.5, y: -144.5}
+      - {x: 337.5, y: -141.5}
+      - {x: 335.5, y: -140.5}
+    - - {x: 306.5, y: -141.5}
+      - {x: 306.5, y: -154.5}
+      - {x: 325.5, y: -154.5}
+      - {x: 325.5, y: -141.5}
+    - - {x: 428.5, y: -141.5}
+      - {x: 427.5, y: -144.5}
+      - {x: 427.5, y: -148.5}
+      - {x: 427.5, y: -143.5}
+      - {x: 425.5, y: -141.5}
+      - {x: 420.5, y: -143.5}
+      - {x: 420.5, y: -154.5}
+      - {x: 452.5, y: -154.5}
+      - {x: 453.5, y: -152.5}
+      - {x: 453.5, y: -143.5}
+      - {x: 452.5, y: -141.5}
+    - - {x: 407.5, y: -147.5}
+      - {x: 408.5, y: -150.5}
+      - {x: 414.5, y: -150.5}
+      - {x: 416.5, y: -148.5}
+      - {x: 415.5, y: -145.5}
+      - {x: 409.5, y: -145.5}
+    - - {x: 98.5, y: -16.5}
+      - {x: 97.5, y: -21.5}
+      - {x: 97.5, y: -24.5}
+      - {x: 97.5, y: -18.5}
+      - {x: 96.5, y: -15.5}
+      - {x: 88.5, y: -14.5}
+      - {x: 85.5, y: -17.5}
+      - {x: 88.5, y: -12.5}
+      - {x: 93.5, y: -14.5}
+      - {x: 109.5, y: -8.5}
+      - {x: 106.5, y: 54.5}
+      - {x: -27.5, y: 54.5}
+      - {x: -27.5, y: -75.5}
+      - {x: 94.5, y: -147.5}
+      - {x: 140.5, y: -147.5}
+      - {x: 145.5, y: -138.5}
+      - {x: 145.5, y: -62.5}
+      - {x: 112.5, y: -9.5}
+    - - {x: 378.5, y: -124.5}
+      - {x: 374.5, y: -125.5}
+      - {x: 374.5, y: -141.5}
+      - {x: 412.5, y: -141.5}
+      - {x: 412.5, y: -125.5}
+      - {x: 409.5, y: -124.5}
+    - - {x: 444.5, y: -124.5}
+      - {x: 444.5, y: -138.5}
+      - {x: 455.5, y: -141.5}
+      - {x: 478.5, y: -141.5}
+      - {x: 484.5, y: -137.5}
+      - {x: 484.5, y: -124.5}
+    - - {x: 321.5, y: -125.5}
+      - {x: 306.5, y: -125.5}
+      - {x: 306.5, y: -138.5}
+      - {x: 350.5, y: -138.5}
+      - {x: 353.5, y: -136.5}
+      - {x: 353.5, y: -128.5}
+      - {x: 351.5, y: -127.5}
+    - - {x: 361.5, y: -124.5}
+      - {x: 357.5, y: -125.5}
+      - {x: 356.5, y: -129.5}
+      - {x: 356.5, y: -137.5}
+      - {x: 357.5, y: -138.5}
+      - {x: 371.5, y: -138.5}
+      - {x: 373.5, y: -131.5}
+      - {x: 373.5, y: -125.5}
+      - {x: 372.5, y: -124.5}
+    - - {x: 438.5, y: -124.5}
+      - {x: 417.5, y: -125.5}
+      - {x: 415.5, y: -130.5}
+      - {x: 415.5, y: -137.5}
+      - {x: 416.5, y: -138.5}
+      - {x: 441.5, y: -138.5}
+      - {x: 441.5, y: -124.5}
+    - - {x: 488.5, y: -125.5}
+      - {x: 487.5, y: -126.5}
+      - {x: 487.5, y: -138.5}
+      - {x: 499.5, y: -138.5}
+      - {x: 499.5, y: -126.5}
+      - {x: 498.5, y: -125.5}
+    - - {x: 337.5, y: -103.5}
+      - {x: 337.5, y: -116.5}
+      - {x: 338.5, y: -117.5}
+      - {x: 350.5, y: -119.5}
+      - {x: 381.5, y: -119.5}
+      - {x: 391.5, y: -116.5}
+      - {x: 391.5, y: -106.5}
+      - {x: 390.5, y: -103.5}
+    - - {x: 309.5, y: -102.5}
+      - {x: 306.5, y: -103.5}
+      - {x: 306.5, y: -116.5}
+      - {x: 335.5, y: -116.5}
+      - {x: 335.5, y: -102.5}
+    - - {x: -404.5, y: -90.5}
+      - {x: -401.5, y: -91.5}
+      - {x: -386.5, y: -91.5}
+      - {x: -382.5, y: -76.5}
+      - {x: -382.5, y: -15.5}
+      - {x: -392.5, y: 54.5}
+      - {x: -530.5, y: 54.5}
+      - {x: -530.5, y: -39.5}
+      - {x: -521.5, y: -35.5}
+      - {x: -508.5, y: -36.5}
+      - {x: -516.5, y: -36.5}
+      - {x: -525.5, y: -39.5}
+      - {x: -530.5, y: -50.5}
+      - {x: -530.5, y: -51.5}
+      - {x: -509.5, y: -69.5}
+      - {x: -428.5, y: -91.5}
+      - {x: -404.5, y: -91.5}
+      - {x: -405.5, y: -88.5}
+      - {x: -405.5, y: -86.5}
+      - {x: -405.5, y: -87.5}
+    - - {x: -316.5, y: -90.5}
+      - {x: -227.5, y: -90.5}
+      - {x: -219.5, y: -87.5}
+      - {x: -219.5, y: -23.5}
+      - {x: -228.5, y: 54.5}
+      - {x: -361.5, y: 54.5}
+      - {x: -361.5, y: -85.5}
+    - - {x: -64.5, y: -84.5}
+      - {x: -61.5, y: -83.5}
+      - {x: -61.5, y: -80.5}
+      - {x: -64.5, y: -79.5}
+      - {x: -66.5, y: -81.5}
+    - - {x: -194.5, y: 54.5}
+      - {x: -194.5, y: -36.5}
+      - {x: -180.5, y: -35.5}
+      - {x: -165.5, y: -40.5}
+      - {x: -187.5, y: -36.5}
+      - {x: -194.5, y: -39.5}
+      - {x: -194.5, y: -52.5}
+      - {x: -189.5, y: -56.5}
+      - {x: -116.5, y: -57.5}
+      - {x: -88.5, y: -66.5}
+      - {x: -85.5, y: -66.5}
+      - {x: -88.5, y: -68.5}
+      - {x: -90.5, y: -71.5}
+      - {x: -71.5, y: -83.5}
+      - {x: -67.5, y: -83.5}
+      - {x: -54.5, y: -74.5}
+      - {x: -54.5, y: -24.5}
+      - {x: -62.5, y: 54.5}
+    - - {x: 75.5, y: -76.5}
+      - {x: 78.5, y: -75.5}
+      - {x: 78.5, y: -72.5}
+      - {x: 75.5, y: -71.5}
+      - {x: 73.5, y: -73.5}
+    - - {x: -384.5, y: -70.5}
+      - {x: -381.5, y: -69.5}
+      - {x: -381.5, y: -66.5}
+      - {x: -384.5, y: -65.5}
+      - {x: -386.5, y: -67.5}
+    - - {x: 278.5, y: 30.5}
+      - {x: 246.5, y: 30.5}
+      - {x: 195.5, y: -12.5}
+      - {x: 195.5, y: -60.5}
+      - {x: 204.5, y: -67.5}
+      - {x: 310.5, y: -67.5}
+      - {x: 310.5, y: 6.5}
+      - {x: 297.5, y: 17.5}
+    - - {x: 481.5, y: 3.5}
+      - {x: 477.5, y: 7.5}
+      - {x: 470.5, y: 7.5}
+      - {x: 474.5, y: 8.5}
+      - {x: 481.5, y: 16.5}
+      - {x: 481.5, y: 28.5}
+      - {x: 438.5, y: 48.5}
+      - {x: 351.5, y: 48.5}
+      - {x: 332.5, y: 43.5}
+      - {x: 332.5, y: 29.5}
+      - {x: 349.5, y: 12.5}
+      - {x: 332.5, y: -30.5}
+      - {x: 332.5, y: -42.5}
+      - {x: 342.5, y: -51.5}
+      - {x: 388.5, y: -55.5}
+      - {x: 399.5, y: -55.5}
+      - {x: 367.5, y: -56.5}
+      - {x: 341.5, y: -52.5}
+      - {x: 332.5, y: -55.5}
+      - {x: 332.5, y: -67.5}
+      - {x: 470.5, y: -67.5}
+      - {x: 481.5, y: -66.5}
+      - {x: 481.5, y: -43.5}
+      - {x: 480.5, y: -41.5}
+      - {x: 477.5, y: -38.5}
+      - {x: 481.5, y: -17.5}
+    - - {x: 522.5, y: 32.5}
+      - {x: 499.5, y: -19.5}
+      - {x: 499.5, y: -45.5}
+      - {x: 510.5, y: -50.5}
+      - {x: 551.5, y: -47.5}
+      - {x: 567.5, y: -43.5}
+      - {x: 568.5, y: -42.5}
+      - {x: 573.5, y: -42.5}
+      - {x: 570.5, y: -42.5}
+      - {x: 565.5, y: -44.5}
+      - {x: 554.5, y: -55.5}
+      - {x: 500.5, y: -56.5}
+      - {x: 499.5, y: -57.5}
+      - {x: 499.5, y: -62.5}
+      - {x: 507.5, y: -67.5}
+      - {x: 629.5, y: -67.5}
+      - {x: 674.5, y: -55.5}
+      - {x: 674.5, y: 32.5}
+    - - {x: -682.5, y: 54.5}
+      - {x: -682.5, y: -56.5}
+      - {x: -553.5, y: -56.5}
+      - {x: -553.5, y: 54.5}
+    - - {x: 104.5, y: -52.5}
+      - {x: 106.5, y: -54.5}
+      - {x: 109.5, y: -53.5}
+      - {x: 109.5, y: -50.5}
+      - {x: 107.5, y: -48.5}
+      - {x: 104.5, y: -49.5}
+    - - {x: 98.5, y: -40.5}
+      - {x: 100.5, y: -42.5}
+      - {x: 103.5, y: -41.5}
+      - {x: 107.5, y: -32.5}
+      - {x: 105.5, y: -30.5}
+      - {x: 102.5, y: -31.5}
+    - - {x: 80.5, y: -23.5}
+      - {x: 83.5, y: -22.5}
+      - {x: 83.5, y: -19.5}
+      - {x: 80.5, y: -18.5}
+      - {x: 78.5, y: -20.5}
+    - - {x: 98.5, y: -14.5}
+      - {x: 101.5, y: -13.5}
+      - {x: 101.5, y: -10.5}
+      - {x: 98.5, y: -9.5}
+      - {x: 96.5, y: -11.5}
+    - - {x: 221.5, y: 231.5}
+      - {x: 199.5, y: 231.5}
+      - {x: 199.5, y: 229.5}
+      - {x: 200.5, y: 226.5}
+      - {x: 141.5, y: 222.5}
+      - {x: 140.5, y: 220.5}
+      - {x: 141.5, y: 217.5}
+      - {x: 140.5, y: 187.5}
+      - {x: 167.5, y: 167.5}
+      - {x: 169.5, y: 167.5}
+      - {x: 190.5, y: 149.5}
+      - {x: 195.5, y: 147.5}
+      - {x: 193.5, y: 142.5}
+      - {x: 194.5, y: 139.5}
+      - {x: 172.5, y: 141.5}
+      - {x: 157.5, y: 142.5}
+      - {x: 132.5, y: 144.5}
+      - {x: 132.5, y: 109.5}
+      - {x: 267.5, y: 109.5}
+      - {x: 271.5, y: 132.5}
+      - {x: 272.5, y: 166.5}
+      - {x: 272.5, y: 168.5}
+      - {x: 274.5, y: 166.5}
+      - {x: 277.5, y: 167.5}
+      - {x: 277.5, y: 169.5}
+      - {x: 277.5, y: 160.5}
+      - {x: 328.5, y: 109.5}
+      - {x: 367.5, y: 109.5}
+      - {x: 378.5, y: 114.5}
+      - {x: 378.5, y: 161.5}
+      - {x: 287.5, y: 217.5}
+    - - {x: -655.5, y: 231.5}
+      - {x: -680.5, y: 223.5}
+      - {x: -680.5, y: 175.5}
+      - {x: -672.5, y: 134.5}
+      - {x: -671.5, y: 131.5}
+      - {x: -658.5, y: 131.5}
+      - {x: -653.5, y: 126.5}
+      - {x: -658.5, y: 129.5}
+      - {x: -665.5, y: 131.5}
+      - {x: -666.5, y: 131.5}
+      - {x: -673.5, y: 130.5}
+      - {x: -678.5, y: 124.5}
+      - {x: -672.5, y: 111.5}
+      - {x: -507.5, y: 111.5}
+      - {x: -507.5, y: 197.5}
+      - {x: -595.5, y: 231.5}
+    - - {x: -335.5, y: 182.5}
+      - {x: -352.5, y: 187.5}
+      - {x: -354.5, y: 187.5}
+      - {x: -349.5, y: 187.5}
+      - {x: -347.5, y: 190.5}
+      - {x: -351.5, y: 197.5}
+      - {x: -383.5, y: 231.5}
+      - {x: -459.5, y: 231.5}
+      - {x: -492.5, y: 226.5}
+      - {x: -492.5, y: 111.5}
+      - {x: -291.5, y: 111.5}
+      - {x: -291.5, y: 153.5}
+      - {x: -331.5, y: 190.5}
+    - - {x: -79.5, y: 155.5}
+      - {x: -133.5, y: 201.5}
+      - {x: -137.5, y: 194.5}
+      - {x: -137.5, y: 191.5}
+      - {x: -139.5, y: 190.5}
+      - {x: -141.5, y: 190.5}
+      - {x: -140.5, y: 190.5}
+      - {x: -137.5, y: 191.5}
+      - {x: -137.5, y: 196.5}
+      - {x: -140.5, y: 206.5}
+      - {x: -192.5, y: 231.5}
+      - {x: -256.5, y: 231.5}
+      - {x: -275.5, y: 224.5}
+      - {x: -275.5, y: 148.5}
+      - {x: -266.5, y: 131.5}
+      - {x: -253.5, y: 131.5}
+      - {x: -248.5, y: 126.5}
+      - {x: -253.5, y: 129.5}
+      - {x: -260.5, y: 131.5}
+      - {x: -261.5, y: 131.5}
+      - {x: -268.5, y: 130.5}
+      - {x: -272.5, y: 124.5}
+      - {x: -268.5, y: 111.5}
+      - {x: -150.5, y: 111.5}
+      - {x: -135.5, y: 133.5}
+      - {x: -106.5, y: 113.5}
+      - {x: -79.5, y: 123.5}
+    - - {x: -4.5, y: 231.5}
+      - {x: -4.5, y: 229.5}
+      - {x: -3.5, y: 226.5}
+      - {x: -62.5, y: 222.5}
+      - {x: -63.5, y: 220.5}
+      - {x: -62.5, y: 217.5}
+      - {x: -63.5, y: 187.5}
+      - {x: -38.5, y: 166.5}
+      - {x: -56.5, y: 144.5}
+      - {x: -56.5, y: 140.5}
+      - {x: -55.5, y: 137.5}
+      - {x: -55.5, y: 134.5}
+      - {x: -54.5, y: 131.5}
+      - {x: -41.5, y: 131.5}
+      - {x: -36.5, y: 126.5}
+      - {x: -41.5, y: 129.5}
+      - {x: -48.5, y: 131.5}
+      - {x: -49.5, y: 131.5}
+      - {x: -56.5, y: 130.5}
+      - {x: -61.5, y: 124.5}
+      - {x: -56.5, y: 111.5}
+      - {x: 78.5, y: 111.5}
+      - {x: 122.5, y: 147.5}
+      - {x: 122.5, y: 188.5}
+      - {x: 41.5, y: 231.5}
+    - - {x: 527.5, y: 179.5}
+      - {x: 522.5, y: 179.5}
+      - {x: 515.5, y: 173.5}
+      - {x: 522.5, y: 180.5}
+      - {x: 529.5, y: 180.5}
+      - {x: 531.5, y: 182.5}
+      - {x: 530.5, y: 185.5}
+      - {x: 528.5, y: 188.5}
+      - {x: 528.5, y: 194.5}
+      - {x: 528.5, y: 192.5}
+      - {x: 529.5, y: 186.5}
+      - {x: 532.5, y: 183.5}
+      - {x: 539.5, y: 187.5}
+      - {x: 539.5, y: 194.5}
+      - {x: 538.5, y: 198.5}
+      - {x: 535.5, y: 197.5}
+      - {x: 538.5, y: 207.5}
+      - {x: 481.5, y: 231.5}
+      - {x: 398.5, y: 231.5}
+      - {x: 398.5, y: 131.5}
+      - {x: 420.5, y: 131.5}
+      - {x: 425.5, y: 126.5}
+      - {x: 420.5, y: 129.5}
+      - {x: 413.5, y: 131.5}
+      - {x: 412.5, y: 131.5}
+      - {x: 405.5, y: 130.5}
+      - {x: 401.5, y: 124.5}
+      - {x: 406.5, y: 111.5}
+      - {x: 505.5, y: 111.5}
+      - {x: 523.5, y: 112.5}
+      - {x: 539.5, y: 133.5}
+      - {x: 534.5, y: 173.5}
+    - - {x: 567.5, y: 177.5}
+      - {x: 570.5, y: 173.5}
+      - {x: 562.5, y: 181.5}
+      - {x: 560.5, y: 186.5}
+      - {x: 557.5, y: 186.5}
+      - {x: 540.5, y: 178.5}
+      - {x: 540.5, y: 167.5}
+      - {x: 597.5, y: 111.5}
+      - {x: 624.5, y: 111.5}
+      - {x: 637.5, y: 116.5}
+      - {x: 637.5, y: 151.5}
+      - {x: 627.5, y: 186.5}
+      - {x: 568.5, y: 186.5}
+      - {x: 566.5, y: 180.5}
+    - - {x: -325.5, y: 165.5}
+      - {x: -322.5, y: 166.5}
+      - {x: -322.5, y: 169.5}
+      - {x: -325.5, y: 170.5}
+      - {x: -327.5, y: 168.5}
+    - - {x: -110.5, y: 169.5}
+      - {x: -109.5, y: 166.5}
+      - {x: -106.5, y: 166.5}
+      - {x: -104.5, y: 168.5}
+      - {x: -105.5, y: 171.5}
+      - {x: -108.5, y: 171.5}
+    - - {x: 537.5, y: 171.5}
+      - {x: 540.5, y: 172.5}
+      - {x: 540.5, y: 175.5}
+      - {x: 537.5, y: 176.5}
+      - {x: 535.5, y: 174.5}
+    - - {x: -123.5, y: 174.5}
+      - {x: -120.5, y: 175.5}
+      - {x: -120.5, y: 178.5}
+      - {x: -123.5, y: 179.5}
+      - {x: -125.5, y: 177.5}
+    - - {x: 550.5, y: 188.5}
+      - {x: 548.5, y: 180.5}
+      - {x: 552.5, y: 176.5}
+      - {x: 555.5, y: 176.5}
+      - {x: 555.5, y: 188.5}
+      - {x: 553.5, y: 189.5}
+    - - {x: 307.5, y: 177.5}
+      - {x: 310.5, y: 178.5}
+      - {x: 310.5, y: 181.5}
+      - {x: 307.5, y: 182.5}
+      - {x: 305.5, y: 180.5}
+    - - {x: 533.5, y: 178.5}
+      - {x: 536.5, y: 179.5}
+      - {x: 536.5, y: 182.5}
+      - {x: 533.5, y: 183.5}
+      - {x: 531.5, y: 181.5}
+    - - {x: 538.5, y: 178.5}
+      - {x: 541.5, y: 179.5}
+      - {x: 541.5, y: 182.5}
+      - {x: 538.5, y: 183.5}
+      - {x: 536.5, y: 181.5}
+    - - {x: -346.5, y: 186.5}
+      - {x: -347.5, y: 181.5}
+      - {x: -345.5, y: 179.5}
+      - {x: -344.5, y: 179.5}
+      - {x: -341.5, y: 182.5}
+      - {x: -341.5, y: 185.5}
+      - {x: -343.5, y: 187.5}
+    - - {x: 541.5, y: 184.5}
+      - {x: 542.5, y: 183.5}
+      - {x: 544.5, y: 183.5}
+      - {x: 548.5, y: 186.5}
+      - {x: 548.5, y: 191.5}
+      - {x: 547.5, y: 194.5}
+      - {x: 542.5, y: 194.5}
+      - {x: 541.5, y: 189.5}
+    - - {x: 76.5, y: 186.5}
+      - {x: 79.5, y: 187.5}
+      - {x: 79.5, y: 190.5}
+      - {x: 76.5, y: 191.5}
+      - {x: 74.5, y: 189.5}
+    - - {x: 70.5, y: 188.5}
+      - {x: 73.5, y: 189.5}
+      - {x: 73.5, y: 192.5}
+      - {x: 70.5, y: 193.5}
+      - {x: 68.5, y: 191.5}
+    - - {x: -525.5, y: 367.5}
+      - {x: -525.5, y: 252.5}
+      - {x: -519.5, y: 251.5}
+      - {x: -370.5, y: 251.5}
+      - {x: -352.5, y: 296.5}
+      - {x: -352.5, y: 358.5}
+      - {x: -358.5, y: 367.5}
+    - - {x: -345.5, y: 367.5}
+      - {x: -345.5, y: 271.5}
+      - {x: -318.5, y: 252.5}
+      - {x: -305.5, y: 251.5}
+      - {x: -186.5, y: 251.5}
+      - {x: -147.5, y: 325.5}
+      - {x: -147.5, y: 367.5}
+    - - {x: -10.5, y: 335.5}
+      - {x: 9.5, y: 328.5}
+      - {x: 23.5, y: 320.5}
+      - {x: 54.5, y: 336.5}
+      - {x: 54.5, y: 366.5}
+      - {x: 51.5, y: 370.5}
+      - {x: -133.5, y: 370.5}
+      - {x: -135.5, y: 368.5}
+      - {x: -135.5, y: 262.5}
+      - {x: -113.5, y: 251.5}
+      - {x: 13.5, y: 251.5}
+      - {x: 24.5, y: 258.5}
+      - {x: 18.5, y: 322.5}
+      - {x: -0.5, y: 331.5}
+      - {x: -5.5, y: 332.5}
+    - - {x: 217.5, y: 371.5}
+      - {x: 194.5, y: 359.5}
+      - {x: 149.5, y: 371.5}
+      - {x: 67.5, y: 371.5}
+      - {x: 67.5, y: 267.5}
+      - {x: 89.5, y: 251.5}
+      - {x: 211.5, y: 251.5}
+      - {x: 235.5, y: 341.5}
+      - {x: 235.5, y: 367.5}
+      - {x: 227.5, y: 371.5}
+    - - {x: 467.5, y: 357.5}
+      - {x: 467.5, y: 384.5}
+      - {x: 450.5, y: 390.5}
+      - {x: 429.5, y: 390.5}
+      - {x: 388.5, y: 357.5}
+      - {x: 384.5, y: 353.5}
+      - {x: 384.5, y: 351.5}
+      - {x: 384.5, y: 352.5}
+      - {x: 383.5, y: 354.5}
+      - {x: 390.5, y: 386.5}
+      - {x: 247.5, y: 389.5}
+      - {x: 247.5, y: 269.5}
+      - {x: 269.5, y: 251.5}
+      - {x: 398.5, y: 251.5}
+      - {x: 404.5, y: 324.5}
+      - {x: 397.5, y: 326.5}
+      - {x: 447.5, y: 334.5}
+    - - {x: 643.5, y: 386.5}
+      - {x: 627.5, y: 374.5}
+      - {x: 629.5, y: 369.5}
+      - {x: 629.5, y: 367.5}
+      - {x: 629.5, y: 369.5}
+      - {x: 627.5, y: 373.5}
+      - {x: 585.5, y: 386.5}
+      - {x: 550.5, y: 386.5}
+      - {x: 479.5, y: 373.5}
+      - {x: 479.5, y: 262.5}
+      - {x: 485.5, y: 251.5}
+      - {x: 626.5, y: 251.5}
+      - {x: 685.5, y: 349.5}
+      - {x: 685.5, y: 382.5}
+      - {x: 676.5, y: 386.5}
+    - - {x: -538.5, y: 262.5}
+      - {x: -534.5, y: 267.5}
+      - {x: -534.5, y: 324.5}
+      - {x: -544.5, y: 340.5}
+      - {x: -568.5, y: 348.5}
+      - {x: -621.5, y: 348.5}
+      - {x: -638.5, y: 346.5}
+      - {x: -659.5, y: 340.5}
+      - {x: -678.5, y: 332.5}
+      - {x: -678.5, y: 261.5}
+      - {x: -656.5, y: 253.5}
+      - {x: -641.5, y: 252.5}
+      - {x: -540.5, y: 252.5}
+      - {x: -540.5, y: 259.5}
+      - {x: -545.5, y: 262.5}
+      - {x: -551.5, y: 262.5}
+    - - {x: 612.5, y: 332.5}
+      - {x: 615.5, y: 333.5}
+      - {x: 615.5, y: 336.5}
+      - {x: 612.5, y: 337.5}
+      - {x: 610.5, y: 335.5}
+    - - {x: 611.5, y: 360.5}
+      - {x: 614.5, y: 361.5}
+      - {x: 614.5, y: 364.5}
+      - {x: 611.5, y: 365.5}
+      - {x: 609.5, y: 363.5}
+    - - {x: 47.5, y: 364.5}
+      - {x: 50.5, y: 365.5}
+      - {x: 50.5, y: 368.5}
+      - {x: 47.5, y: 369.5}
+      - {x: 45.5, y: 367.5}
+    - - {x: -643.5, y: 507.5}
+      - {x: -673.5, y: 486.5}
+      - {x: -673.5, y: 408.5}
+      - {x: -598.5, y: 408.5}
+      - {x: -598.5, y: 507.5}
+    - - {x: -520.5, y: 428.5}
+      - {x: -516.5, y: 428.5}
+      - {x: -514.5, y: 430.5}
+      - {x: -514.5, y: 431.5}
+      - {x: -517.5, y: 434.5}
+      - {x: -518.5, y: 444.5}
+      - {x: -508.5, y: 453.5}
+      - {x: -508.5, y: 497.5}
+      - {x: -523.5, y: 507.5}
+      - {x: -545.5, y: 507.5}
+      - {x: -584.5, y: 489.5}
+      - {x: -587.5, y: 477.5}
+      - {x: -587.5, y: 415.5}
+      - {x: -575.5, y: 408.5}
+      - {x: -520.5, y: 408.5}
+      - {x: -508.5, y: 415.5}
+      - {x: -508.5, y: 426.5}
+      - {x: -516.5, y: 428.5}
+    - - {x: -441.5, y: 438.5}
+      - {x: -445.5, y: 442.5}
+      - {x: -443.5, y: 441.5}
+      - {x: -434.5, y: 437.5}
+      - {x: -423.5, y: 445.5}
+      - {x: -423.5, y: 490.5}
+      - {x: -442.5, y: 507.5}
+      - {x: -456.5, y: 507.5}
+      - {x: -461.5, y: 503.5}
+      - {x: -464.5, y: 494.5}
+      - {x: -464.5, y: 492.5}
+      - {x: -465.5, y: 503.5}
+      - {x: -498.5, y: 492.5}
+      - {x: -498.5, y: 412.5}
+      - {x: -487.5, y: 408.5}
+      - {x: -430.5, y: 408.5}
+      - {x: -423.5, y: 419.5}
+      - {x: -423.5, y: 428.5}
+      - {x: -427.5, y: 435.5}
+    - - {x: -376.5, y: 507.5}
+      - {x: -408.5, y: 489.5}
+      - {x: -408.5, y: 414.5}
+      - {x: -402.5, y: 408.5}
+      - {x: -336.5, y: 408.5}
+      - {x: -329.5, y: 423.5}
+      - {x: -329.5, y: 498.5}
+      - {x: -348.5, y: 507.5}
+    - - {x: -290.5, y: 507.5}
+      - {x: -318.5, y: 484.5}
+      - {x: -318.5, y: 412.5}
+      - {x: -304.5, y: 408.5}
+      - {x: -253.5, y: 408.5}
+      - {x: -248.5, y: 410.5}
+      - {x: -236.5, y: 422.5}
+      - {x: -236.5, y: 507.5}
+    - - {x: -163.5, y: 428.5}
+      - {x: -162.5, y: 428.5}
+      - {x: -150.5, y: 433.5}
+      - {x: -150.5, y: 495.5}
+      - {x: -153.5, y: 510.5}
+      - {x: -154.5, y: 512.5}
+      - {x: -197.5, y: 512.5}
+      - {x: -230.5, y: 491.5}
+      - {x: -230.5, y: 410.5}
+      - {x: -229.5, y: 408.5}
+      - {x: -161.5, y: 408.5}
+      - {x: -150.5, y: 419.5}
+      - {x: -150.5, y: 425.5}
+      - {x: -155.5, y: 428.5}
+    - - {x: -74.5, y: 427.5}
+      - {x: -71.5, y: 427.5}
+      - {x: -67.5, y: 430.5}
+      - {x: -68.5, y: 433.5}
+      - {x: -78.5, y: 435.5}
+      - {x: -64.5, y: 435.5}
+      - {x: -61.5, y: 441.5}
+      - {x: -61.5, y: 491.5}
+      - {x: -70.5, y: 508.5}
+      - {x: -137.5, y: 508.5}
+      - {x: -141.5, y: 502.5}
+      - {x: -141.5, y: 408.5}
+      - {x: -70.5, y: 408.5}
+      - {x: -63.5, y: 423.5}
+      - {x: -64.5, y: 425.5}
+      - {x: -66.5, y: 427.5}
+    - - {x: -19.5, y: 507.5}
+      - {x: -53.5, y: 493.5}
+      - {x: -53.5, y: 409.5}
+      - {x: -52.5, y: 408.5}
+      - {x: 15.5, y: 408.5}
+      - {x: 25.5, y: 416.5}
+      - {x: 25.5, y: 503.5}
+      - {x: 19.5, y: 507.5}
+    - - {x: 59.5, y: 507.5}
+      - {x: 34.5, y: 485.5}
+      - {x: 33.5, y: 475.5}
+      - {x: 33.5, y: 409.5}
+      - {x: 34.5, y: 408.5}
+      - {x: 104.5, y: 408.5}
+      - {x: 113.5, y: 415.5}
+      - {x: 113.5, y: 504.5}
+      - {x: 107.5, y: 507.5}
+    - - {x: 177.5, y: 513.5}
+      - {x: 163.5, y: 511.5}
+      - {x: 119.5, y: 485.5}
+      - {x: 118.5, y: 471.5}
+      - {x: 118.5, y: 413.5}
+      - {x: 124.5, y: 408.5}
+      - {x: 189.5, y: 408.5}
+      - {x: 197.5, y: 430.5}
+      - {x: 198.5, y: 443.5}
+      - {x: 198.5, y: 513.5}
+    - - {x: 240.5, y: 517.5}
+      - {x: 205.5, y: 485.5}
+      - {x: 204.5, y: 479.5}
+      - {x: 204.5, y: 408.5}
+      - {x: 284.5, y: 408.5}
+      - {x: 284.5, y: 517.5}
+    - - {x: 362.5, y: 450.5}
+      - {x: 369.5, y: 454.5}
+      - {x: 369.5, y: 495.5}
+      - {x: 351.5, y: 507.5}
+      - {x: 327.5, y: 507.5}
+      - {x: 294.5, y: 486.5}
+      - {x: 294.5, y: 408.5}
+      - {x: 364.5, y: 408.5}
+      - {x: 369.5, y: 421.5}
+      - {x: 369.5, y: 440.5}
+      - {x: 368.5, y: 447.5}
+    - - {x: 452.5, y: 450.5}
+      - {x: 459.5, y: 454.5}
+      - {x: 459.5, y: 497.5}
+      - {x: 448.5, y: 507.5}
+      - {x: 401.5, y: 507.5}
+      - {x: 384.5, y: 495.5}
+      - {x: 384.5, y: 410.5}
+      - {x: 385.5, y: 408.5}
+      - {x: 454.5, y: 408.5}
+      - {x: 459.5, y: 421.5}
+      - {x: 459.5, y: 440.5}
+      - {x: 458.5, y: 447.5}
+    - - {x: 541.5, y: 450.5}
+      - {x: 548.5, y: 454.5}
+      - {x: 548.5, y: 497.5}
+      - {x: 537.5, y: 507.5}
+      - {x: 490.5, y: 507.5}
+      - {x: 473.5, y: 495.5}
+      - {x: 473.5, y: 410.5}
+      - {x: 474.5, y: 408.5}
+      - {x: 543.5, y: 408.5}
+      - {x: 548.5, y: 421.5}
+      - {x: 548.5, y: 440.5}
+      - {x: 547.5, y: 447.5}
+    - - {x: -70.5, y: 497.5}
+      - {x: -65.5, y: 492.5}
+      - {x: -62.5, y: 492.5}
+      - {x: -62.5, y: 497.5}
+      - {x: -64.5, y: 502.5}
+      - {x: -67.5, y: 502.5}
+      - {x: -70.5, y: 501.5}
+    - - {x: 366.5, y: 520.5}
+      - {x: 365.5, y: 514.5}
+      - {x: 365.5, y: 500.5}
+      - {x: 369.5, y: 495.5}
+      - {x: 372.5, y: 497.5}
+      - {x: 373.5, y: 497.5}
+      - {x: 373.5, y: 520.5}
+    - - {x: -67.5, y: 511.5}
+      - {x: -71.5, y: 507.5}
+      - {x: -71.5, y: 506.5}
+      - {x: -66.5, y: 502.5}
+      - {x: -63.5, y: 503.5}
+      - {x: -63.5, y: 509.5}
+      - {x: -65.5, y: 511.5}
+    - - {x: 456.5, y: 505.5}
+      - {x: 457.5, y: 504.5}
+      - {x: 461.5, y: 504.5}
+      - {x: 463.5, y: 507.5}
+      - {x: 463.5, y: 522.5}
+      - {x: 460.5, y: 523.5}
+      - {x: 456.5, y: 522.5}
+    - - {x: 546.5, y: 524.5}
+      - {x: 545.5, y: 521.5}
+      - {x: 545.5, y: 515.5}
+      - {x: 547.5, y: 511.5}
+      - {x: 552.5, y: 511.5}
+      - {x: 552.5, y: 524.5}
+      - {x: 549.5, y: 525.5}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
